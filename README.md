@@ -1,8 +1,10 @@
-<img src="img/loyalty_predict_canva.png">
+
 
 # Loyalty Predict
 
 Construindo uma solução de Data Science de engajamento de usuários e predições de Machine Learning.
+
+<img src="img/loyalty_predict_canva.png">
 
 # Índice
 
